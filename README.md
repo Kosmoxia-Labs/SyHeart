@@ -12,7 +12,7 @@ What does this program do:
 
 How use it:
 1. Make sure you have Python installed on your computer
-2. Download the file Doctor_Tech_Assistant
+2. Download the file syheart.py
 3. Open the terminal
 4. Run the program
 
