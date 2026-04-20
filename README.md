@@ -3,12 +3,12 @@ Hi! Welcome to SyHeart (v01)!
 A virtual doctor who checks your blood pressure and gives medical recommendations
 
 What does this program do:
--checks blood pressure values (systolic and diastolic)
--recognizes:
-   -stade 1 and 2 of hypertension
-   -elevate pressure
-   -normal pressure
--asks if you have symptoms in case of emergency
+1. checks blood pressure values (systolic and diastolic).
+2. recognizes:
+   - stade 1 and 2 of hypertension
+   - elevate pressure
+   - normal pressure
+3. asks if you have symptoms in case of emergency
 
 How use it:
 1. Make sure you have Python installed on your computer
