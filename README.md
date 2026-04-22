@@ -5,7 +5,7 @@ A virtual doctor who checks your blood pressure and gives medical recommendation
 What does this program do:
 1. checks blood pressure values (systolic and diastolic).
 2. recognizes:
-   - stade 1 and 2 of hypertension
+   - stage 1 and 2 of hypertension
    - elevate pressure
    - normal pressure
 3. asks if you have symptoms in case of emergency
